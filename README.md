@@ -40,12 +40,16 @@ Splitting the Data: The dataset is split into training and testing sets.
 Training the Model: The linear regression model is trained on the training data.
 Evaluating the Model: The model’s performance is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 Results
+![Screenshot (61)](https://github.com/user-attachments/assets/566efe1f-d1f8-4f4e-8d48-7a628207aaa6)
+
 After training the model, the following metrics were used to evaluate its performance
 # Best Score
 linear_regression:	0.818354	
 1	lasso:	0.687429	
 2	decision_tree:	0.754222
 The results indicate that the model performs well in predicting house prices in Bangalore.
+
+
 
 Conclusion
 This project demonstrates the use of linear regression to predict house prices in Bangalore. While the model provides a good starting point, further improvements can be made by exploring more complex models, feature engineering, and hyperparameter tuning.
