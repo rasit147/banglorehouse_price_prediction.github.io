@@ -23,6 +23,7 @@ matplotlib
 seaborn
 scikit-learn
 You can install the required libraries using the following command:
+![Screenshot (61)](https://github.com/user-attachments/assets/6cf01496-23f4-4245-9ee2-ce197d192675)
 
 
 
